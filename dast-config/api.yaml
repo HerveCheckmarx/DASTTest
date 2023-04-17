@@ -47,7 +47,7 @@ jobs:
     name: "passiveScan-config"
     type: "passiveScan-config"
   - parameters:
-      apiFile: "./swagger/openapi.json"
+      apiFile: "./swagger/openapi.yaml"
       apiUrl: ""
       targetUrl: "http://testfire.net/"
       context: "Default Context"
