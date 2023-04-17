@@ -24,7 +24,7 @@ jobs:
       with:
         command: api
         config: ./dast-config/api.yaml
-        environment_id: 085a9321-d79e-4cd7-a154-0f27fdea7956
+        environment_id: b03ebbb9-2bda-48dd-b6e0-8b6897c301f2
         openapi: ./swagger/openapi.json
         #project_id: b03ebbb9-2bda-48dd-b6e0-8b6897c301f2
         base_url: https://deu.ast.checkmarx.net/
