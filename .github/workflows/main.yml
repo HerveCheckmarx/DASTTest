@@ -39,4 +39,4 @@ jobs:
       name: Attach DAST report as an artifact to workflow  
       with:
         name: report
-        path: ../output        
+        path: /output        
